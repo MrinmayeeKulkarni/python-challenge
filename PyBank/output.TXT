@@ -1,0 +1,7 @@
+Financial Analysis 
+---------------------------------------------- 
+Total Months: 85
+Total: $ 37514694.0
+Average Change: $ 441349.34
+Greatest increase in profits: Sep-2013 ($ 1170593.0) 
+Greatest decrease in losses: Sep-2013 ($ -1196225.0) 
